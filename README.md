@@ -123,6 +123,8 @@ Atualmente, busco uma oportunidade como **desenvolvedor júnior ou estagiário**
 
 ## 📊 Estatísticas GitHub
 
-![Top Languages](https://gitmystat.vercel.app/top?username=felipegs0&layout=bar)
+<p align="center">
+  <img src="https://gitmystat.vercel.app/top?username=felipegs0&layout=bar" />
+</p>
 <br/>
 <br/>
