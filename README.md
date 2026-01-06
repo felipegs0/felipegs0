@@ -1,8 +1,15 @@
-**`Desenvolvedor Front-End`**
+# 👨🏻‍💻Felipe Gomes
+---
 
-Olá, me chamo Felipe Gomes e atualmente tenho 18 anos. Estou cursando Ciência da Computação na Uninter. Sou apaixonado por tecnologia e compartilho meu conhecimento através de repertorios nesse meu perfil.
+## Sobre mim
+
+Olá, me chamo Felipe, sou estudante de Ciência da Computação com experiência prática em projetos acadêmicos e pessoais. Tenho interesse em desenvolvimento de software e venho aprimorando minhas habilidades através de cursos, projetos e estudos constantes.
+
+Atualmente, busco uma oportunidade como **desenvolvedor júnior ou estagiário**, onde eu possa evoluir tecnicamente e contribuir com soluções reais.
 
 ---
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -40,14 +47,6 @@ Olá, me chamo Felipe Gomes e atualmente tenho 18 anos. Estou cursando Ciência 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -62,6 +61,68 @@ Olá, me chamo Felipe Gomes e atualmente tenho 18 anos. Estou cursando Ciência 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.JS" 
+    title="Node.JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="c" 
+    title="c"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flask-python" 
+    title="Flask-python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="vite" 
+    title="vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
+/>
+<br/>
 
+---
+
+## 📊 Estatísticas GitHub
+
+![Top Languages](https://gitmystat.vercel.app/top?username=felipegs0&layout=bar)
 <br/>
 <br/>
