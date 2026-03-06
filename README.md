@@ -3,7 +3,7 @@
 <div align="center">
   
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Construindo+aplicações+completas;Transformando+ideias+em+realidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Construindo+aplicações+completas;Transformando+ideias+em+realidade" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Coding GIF">
@@ -82,7 +82,7 @@ Apaixonado por criar aplicações web modernas, performáticas e escaláveis que
 |---------|-------------|------------|-------|
 | **[ClearWeather](https://clear-weather.vercel.app/)** | Aplicação web de previsão do tempo que permite pesquisar cidades com autocomplete inteligente e visualizar dados climáticos atuais e previsão para os próximos dias. | React, JavaScript, Chakra UI, Framer Motion, TanStack Query, APIs | [Demo](https://clear-weather.vercel.app/) • [GitHub](https://github.com/GabrielMaia21/Clear_Weather) |
 | **[Password Generator](https://password-generator-vercel-cuuk.vercel.app/)** | Aplicação web desenvolvida em React para geração de senhas seguras e personalizáveis, utilizando styled-components para estilização. | React, Styled-Components | [Demo](https://password-generator-vercel-cuuk.vercel.app/) • [GitHub](https://github.com/felipegs0/password-generator) |
-| **[BookTracker](https://github.com/ig-imanish/CityCare)** | O BookTracker é uma aplicação web que permite aos usuários organizar e acompanhar sua jornada de leitura. Com ela, é possível pesquisar livros usando a Google Books API, adicioná-los à sua biblioteca pessoal e gerenciar o status de leitura como Para Ler, Lendo ou Finalizado. | Python, Flask, SQLite, Jinja2, JavaScript | [Demo](https://booktracker-plmd.onrender.com/) • [GitHub](https://github.com/felipegs0/Booktracker) |
+| **[BookTracker](https://booktracker-plmd.onrender.com/)** | O BookTracker é uma aplicação web que permite aos usuários organizar e acompanhar sua jornada de leitura. Com ela, é possível pesquisar livros usando a Google Books API, adicioná-los à sua biblioteca pessoal e gerenciar o status de leitura como Para Ler, Lendo ou Finalizado. | Python, Flask, SQLite, Jinja2, JavaScript | [Demo](https://booktracker-plmd.onrender.com/) • [GitHub](https://github.com/felipegs0/Booktracker) |
 
 **Quer ver mais?** Confira minha **[lista completa de repositórios](https://github.com/felipegs0?tab=repositories)**.
 
