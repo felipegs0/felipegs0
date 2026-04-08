@@ -15,14 +15,6 @@ Apaixonado por criar aplicações web modernas, performáticas e escaláveis que
 
 ---
 
-### 🌐 Conecte-se comigo
-<div align="center">
-  <a href="https://www.linkedin.com/in/felipe-gomes-488a09346/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/felipegs0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
-
----
-
 ### 🛠️ Linguagens & Tecnologias
 
 <details open>
@@ -98,8 +90,8 @@ Apaixonado por criar aplicações web modernas, performáticas e escaláveis que
 ---
 
 <div align="center">
-  <h3>Obrigado por visitar meu perfil! 😊</h3>
-  <p>Estou sempre aberto a novos projetos, colaborações e boas conversas sobre tecnologia ☕</p>
-  <p>Vamos construir algo incrível juntos!</p>
+  <h3>Obrigado por visitar meu perfil!</h3>
+  <p>Estou sempre aberto a novos projetos, colaborações e boas conversas sobre tecnologia</p>
+  <p>Vamos construir algo juntos!</p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Thank You GIF">
 </div>
